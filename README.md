@@ -28,33 +28,39 @@ MS CS student at **UC San Diego** working at the intersection of LLM agent syste
 
 ### Tech Stack
 
-**AI / ML**&ensp;
+**Languages**&ensp;
 ![Python](https://img.shields.io/badge/Python-0e1626?style=flat-square&logo=python&logoColor=5ef0b0)
+![Java](https://img.shields.io/badge/Java-0e1626?style=flat-square&logo=openjdk&logoColor=5ef0b0)
+![Kotlin](https://img.shields.io/badge/Kotlin-0e1626?style=flat-square&logo=kotlin&logoColor=9b8ff8)
+![Swift](https://img.shields.io/badge/Swift-0e1626?style=flat-square&logo=swift&logoColor=9b8ff8)
+![C](https://img.shields.io/badge/C-0e1626?style=flat-square&logo=c&logoColor=5ef0b0)
+![C++](https://img.shields.io/badge/C++-0e1626?style=flat-square&logo=cplusplus&logoColor=5ef0b0)
+![TypeScript](https://img.shields.io/badge/TypeScript-0e1626?style=flat-square&logo=typescript&logoColor=9b8ff8)
+![SQL](https://img.shields.io/badge/SQL-0e1626?style=flat-square&logo=mysql&logoColor=5ef0b0)
+
+**AI / ML**&ensp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0e1626?style=flat-square&logo=tensorflow&logoColor=5ef0b0)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0e1626?style=flat-square&logo=fastapi&logoColor=5ef0b0)
+![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-0e1626?style=flat-square&logo=openai&logoColor=9b8ff8)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-0e1626?style=flat-square&logoColor=9b8ff8)
 
 **Mobile**&ensp;
 ![Android](https://img.shields.io/badge/Android-0e1626?style=flat-square&logo=android&logoColor=5ef0b0)
-![Kotlin](https://img.shields.io/badge/Kotlin-0e1626?style=flat-square&logo=kotlin&logoColor=9b8ff8)
-![Swift](https://img.shields.io/badge/Swift-0e1626?style=flat-square&logo=swift&logoColor=9b8ff8)
+![iOS](https://img.shields.io/badge/iOS-0e1626?style=flat-square&logo=apple&logoColor=5ef0b0)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0e1626?style=flat-square&logo=androidstudio&logoColor=9b8ff8)
+![Xcode](https://img.shields.io/badge/Xcode-0e1626?style=flat-square&logo=xcode&logoColor=9b8ff8)
 
-**Full-Stack**&ensp;
+**Web & Backend**&ensp;
 ![React](https://img.shields.io/badge/React-0e1626?style=flat-square&logo=react&logoColor=5ef0b0)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0e1626?style=flat-square&logo=springboot&logoColor=5ef0b0)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0e1626?style=flat-square&logo=postgresql&logoColor=9b8ff8)
-![Java](https://img.shields.io/badge/Java-0e1626?style=flat-square&logo=openjdk&logoColor=9b8ff8)
+![MySQL](https://img.shields.io/badge/MySQL-0e1626?style=flat-square&logo=mysql&logoColor=9b8ff8)
+![SQLite](https://img.shields.io/badge/SQLite-0e1626?style=flat-square&logo=sqlite&logoColor=5ef0b0)
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kevinnie2003&show_icons=true&hide_border=true&bg_color=0e1626&title_color=5ef0b0&icon_color=9b8ff8&text_color=7d8ea4&ring_color=5ef0b0&include_all_commits=true" />
-&ensp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnie2003&layout=compact&hide_border=true&bg_color=0e1626&title_color=5ef0b0&text_color=7d8ea4&langs_count=6" />
-
-</div>
+**Tools**&ensp;
+![Git](https://img.shields.io/badge/Git-0e1626?style=flat-square&logo=git&logoColor=5ef0b0)
+![Linux](https://img.shields.io/badge/Linux-0e1626?style=flat-square&logo=linux&logoColor=5ef0b0)
+![JUnit](https://img.shields.io/badge/JUnit-0e1626?style=flat-square&logo=junit5&logoColor=9b8ff8)
 
 ---
 
