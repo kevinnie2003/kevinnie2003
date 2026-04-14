@@ -1,8 +1,8 @@
-# Hi, I'm Kevin (Mingxuan) Nie
+# Hi, I'm Mingxuan (Kevin) Nie
 
 MS CS student at **UC San Diego**, working at the intersection of LLM agent systems, multi-agent architectures, and mobile engineering.
 
-Currently building AI-powered image generation and storyboard tooling at **Vicino AI**. Previously shipped LLM-based on-call infrastructure at **TikTok** and network diagnostic features for 160M+ users at **Alibaba**.
+Currently building AI-powered image generation and storyboard tooling at **Vicino AI**. Previously shipped LLM-based on-call infrastructure at **TikTok** and network diagnostic features at **Alibaba**.
 
 ---
 
@@ -18,9 +18,9 @@ Currently building AI-powered image generation and storyboard tooling at **Vicin
 
 | Project | Description |
 |---|---|
-| [Adaptive Moderation Agent](https://github.com/kevinnie2003) | 2-stage LLM content moderation pipeline with ReAct-based action selection |
-| [Enhanced U-Net for Ship Segmentation](https://github.com/kevinnie2003) | First-author publication in *Applied and Computational Engineering* (CONF-SPML 2025) |
-| [Successorator](https://github.com/kevinnie2003) | Android productivity app built with Java and classic design patterns |
+| [Adaptive Moderation Agent](https://github.com/Zihang-He/CSE291A_Group5_Adaptive_Moderation_Agent) | 2-stage LLM content moderation pipeline with ReAct-based action selection |
+| [Enhanced U-Net for Ship Segmentation](https://github.com/kevinnie2003/ship-detection) | First-author publication in *Applied and Computational Engineering* (CONF-SPML 2025) |
+| [Successorator](https://github.com/CSE-110-Winter-2024/TODO-List) | Android productivity app built with Java and classic design patterns |
 
 ---
 
