@@ -20,7 +20,7 @@
 
 <br/>
 
-MS CS student at **UC San Diego** working at the intersection of LLM agent systems, multi-agent architectures, and production mobile engineering. Currently an MLE intern at **Vicino AI** building multi-agent pipelines for AI image generation and storyboarding. Previously shipped real-time AI on-call infrastructure at **TikTok** and mobile diagnostic features for 160M+ users at **Alibaba**.
+MS CS student at **UC San Diego** working at the intersection of LLM agent systems, multi-agent architectures, and production mobile engineering. Previously shipped real-time AI on-call infrastructure at **TikTok** and mobile diagnostic features at **Alibaba**.
 
 <br/>
 
@@ -61,13 +61,3 @@ MS CS student at **UC San Diego** working at the intersection of LLM agent syste
 ![Git](https://img.shields.io/badge/Git-0e1626?style=flat-square&logo=git&logoColor=5ef0b0)
 ![Linux](https://img.shields.io/badge/Linux-0e1626?style=flat-square&logo=linux&logoColor=5ef0b0)
 ![JUnit](https://img.shields.io/badge/JUnit-0e1626?style=flat-square&logo=junit5&logoColor=9b8ff8)
-
----
-
-### Recent Projects
-
-| Project | Stack | Note |
-|---|---|---|
-| [Adaptive Moderation Agent](https://github.com/Zihang-He/CSE291A_Group5_Adaptive_Moderation_Agent) | Python · LLM · ReAct | 2-stage content moderation pipeline |
-| [Enhanced U-Net · Ship Segmentation](https://github.com/kevinnie2003/ship-detection) | Python · TensorFlow | First-author pub, CONF-SPML 2025 |
-| [Successorator](https://github.com/CSE-110-Winter-2024/TODO-List) | Java · Android | Agile-built productivity app |
