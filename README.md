@@ -26,28 +26,6 @@ MS CS student at **UC San Diego** working at the intersection of LLM agent syste
 
 ---
 
-### Experience
-
-**miHoYo** — Software Engineer &ensp;·&ensp; Jun – Sep 2026 &ensp;·&ensp; Petit Planet, Tools Group
-
-Led a conversational AI test-case generation system that fused Unity Prefab/Lua, on-device UI, GM commands and config data into a **100K+ Prefab node** knowledge base, generating executable Airtest + Poco scripts and lifting the effective on-device pass rate from **30% to 80%**. Built the front and back end of an internal automated testing platform serving dozens of QA engineers.
-
-**Vicino AI** — Machine Learning Engineer &ensp;·&ensp; Nov 2025 – Apr 2026
-
-Built a multi-agent four-view image generation system, orchestrating **8+ specialized agents** through ReAct loops and MCP/tool calling. Designed a self-correcting loop with cross-view consistency evaluation and version rollback, converging **90%+** of requests within 2 iterations. Shipped storyboard generation, prompt-to-workflow, and a video editing agent.
-
-**TikTok** — Software Engineer &ensp;·&ensp; Jun – Sep 2025 &ensp;·&ensp; TikTok User Experience
-
-Built an AI on-call assistant with an LLM agent for intent recognition, classification and workflow routing — **80%** better classification accuracy than the manual process, adopted by **1,000+ engineers**. Designed a high-concurrency WebSocket messaging architecture with multithreaded asynchronous LLM classification.
-
-**Alibaba** — Software Engineer &ensp;·&ensp; Jun – Sep 2024 &ensp;·&ensp; AIDC, Lazada
-
-Led an Android network diagnostics feature for the volatile weak-network environments of Southeast Asia, designing a weak-network detection strategy where no mature application-layer solution existed, and shipping Kotlin/Java diagnostic SDKs across three scenarios.
-
-<br/>
-
----
-
 ### Tech Stack
 
 **Languages**&ensp;
