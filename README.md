@@ -20,7 +20,7 @@
 
 <br/>
 
-MS CS student at **UC San Diego** building LLM agent systems and tools for games. Currently working on [Coffee Companion](https://github.com/kevinnie2003/LOMAssistant), an AI mod for *Legend of Mortal* with an in-game tool-calling agent (100+ stars, 20K+ downloads). Most recently built conversational AI test automation and an internal testing platform at **miHoYo**. Before that: multi-agent image generation and storyboarding at **Vicino AI**, real-time AI on-call infrastructure at **TikTok**, and Android network diagnostics for Lazada at **Alibaba**. Open to full-time roles starting spring 2027.
+MS CS student at **UC San Diego** building LLM agent systems and tools for games. Currently working on [Coffee Companion](https://github.com/kevinnie2003/LOMAssistant), an AI mod for *Legend of Mortal* with an in-game tool-calling agent (130 stars, 40K+ downloads). Most recently built conversational AI test automation and an internal testing platform at **miHoYo**. Before that: multi-agent image generation and storyboarding at **Vicino AI**, real-time AI on-call infrastructure at **TikTok**, and Android network diagnostics for Lazada at **Alibaba**. Open to full-time roles starting spring 2027.
 
 <br/>
 
