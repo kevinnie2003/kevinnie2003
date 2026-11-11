@@ -51,6 +51,3 @@ MS CS student at **UC San Diego**, building LLM agent systems and tools for game
 ![Android](https://img.shields.io/badge/Android-0e1626?style=flat-square&logo=android&logoColor=9b8ff8)
 ![iOS](https://img.shields.io/badge/iOS-0e1626?style=flat-square&logo=apple&logoColor=9b8ff8)
 ![Unity](https://img.shields.io/badge/Unity-0e1626?style=flat-square&logo=unity&logoColor=9b8ff8)
-![BepInEx](https://img.shields.io/badge/BepInEx-0e1626?style=flat-square&logoColor=9b8ff8)
-![Airtest](https://img.shields.io/badge/Airtest-0e1626?style=flat-square&logoColor=5ef0b0)
-![Poco](https://img.shields.io/badge/Poco-0e1626?style=flat-square&logoColor=5ef0b0)
